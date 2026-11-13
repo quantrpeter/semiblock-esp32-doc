@@ -74,3 +74,9 @@ If you accidentally enter an invalid or incorrect API key, you can easily reset 
 > ![](img/command2.png){width=inherit}
 
 3. Once the stored key has been cleared, run **SemiBlock ESP32: New Project** again and re-enter your valid API key when prompted.
+
+## Next Steps
+
+Now that your project workspace is set up, let us take a closer look at the visual designer tools and panels.
+
+👉 **[Next: Familiarising Yourself with the GUI](familiar_with_the_gui.md)**

@@ -50,3 +50,7 @@ To unlock the full capabilities of the SemiBlock ESP32 extension within Visual S
 ## Summary
 
 SemiBlock ESP32 transforms embedded development into a visual, approachable experience. Whether you are building educational prototypes or functional IoT control panels, it provides a robust, streamlined pathway from concept to deployment.
+
+---
+
+**Next Steps:** Ready to begin? Proceed to [Initial Setup in Visual Studio Code](./initial_setup_in_vscode.md) to install the required extensions.

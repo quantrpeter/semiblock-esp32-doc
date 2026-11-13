@@ -1,5 +1,7 @@
 # SemiBlock ESP32 Extension: Overview
 
+> ![](img/thumbnail.png){width=inherit}
+
 Welcome to the **SemiBlock ESP32** Visual Studio Code extension documentation. SemiBlock ESP32 brings the intuitive, rapid application development experience reminiscent of classic Visual Basic to the powerful ESP32 microcontroller platform, empowering students, educators, and developers to build graphical user interfaces with ease using MicroPython.
 
 ## Introduction

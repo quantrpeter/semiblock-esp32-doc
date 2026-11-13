@@ -16,12 +16,14 @@ Follow the steps below to locate and install both extensions published by the **
 1. Launch Visual Studio Code.
 2. Click the **Extensions** icon on the Activity Bar on the far left side of the window (or press `Ctrl+Shift+X` on Windows/Linux, `Cmd+Shift+X` on macOS).
 
+> ![](img/vscode_1.png){width=inherit}
+
 ### Step 2: Search for SemiBlock
 
 1. Click on the search bar at the top of the Extensions sidebar.
 2. Type `semiblock` and press **Enter**.
 
-![Searching for SemiBlock in VS Code Extensions Marketplace](./assets/vscode_extensions_search.png)
+> ![](img/vscode_2.png){width=inherit}
 
 ### Step 3: Install Both Required Extensions
 

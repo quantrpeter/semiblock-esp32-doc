@@ -45,3 +45,9 @@ Once both installations are complete:
 
 * Ensure neither extension displays a **Reload Required** button. If prompted, click **Reload** to restart Visual Studio Code.
 * You are now ready to proceed with activating your API key and creating your first SemiBlock ESP32 project.
+
+## Next Steps
+
+Now that you have installed both extensions in Visual Studio Code, you are ready to obtain your API key to activate the platform.
+
+👉 **[Next: Getting Your API Key](getting_your_api_key.md)**

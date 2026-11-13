@@ -53,4 +53,4 @@ SemiBlock ESP32 transforms embedded development into a visual, approachable expe
 
 ---
 
-**Next Steps:** Ready to begin? Proceed to [Initial Setup in Visual Studio Code](./initial_setup_in_vscode.md) to install the required extensions.
+**Next Steps:** Ready to begin? Proceed to [Initial Setup in Visual Studio Code](initial_setup_in_visual_studio_code.md) to install the required extensions.

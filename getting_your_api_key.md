@@ -2,7 +2,7 @@
 
 To activate the SemiBlock ESP32 extension and access its cloud compilation and design features, you must first obtain a valid API key from the official SemiBlock website.
 
-## Prerequisites
+## Pre-requisites
 
 * A registered SemiBlock account.
 * Both **SemiBlock ESP32** and **SemiBlock VSCode Extension** installed in Visual Studio Code (see [Initial Setup in Visual Studio Code](./initial_setup_in_vscode.md)).
@@ -27,3 +27,9 @@ To activate the SemiBlock ESP32 extension and access its cloud compilation and d
 
 ![SemiBlock Official Portal API Key Location](./images/semiblock_api_key_portal.png)
 *(Placeholder: Screenshot showing where to locate and copy the API key on build.semiblock.ai)*
+
+## Next Steps
+
+With your API key copied to your clipboard, proceed to the next guide to create your first project inside Visual Studio Code.
+
+👉 **[Next: Creating Your First Project](creating_your_first_project.md)**

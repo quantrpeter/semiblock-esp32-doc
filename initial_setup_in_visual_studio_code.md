@@ -2,7 +2,7 @@
 
 Before you begin building graphical user interfaces for your ESP32 board, you must configure your Visual Studio Code environment by installing the two official SemiBlock extensions.
 
-## Prerequisites
+## Pre-requisites
 
 * **Visual Studio Code:** Ensure you have the latest version of [Visual Studio Code](https://code.visualstudio.com/) installed on your computer.
 * **Internet Connection:** Required to download and install the extensions from the Visual Studio Code Marketplace.

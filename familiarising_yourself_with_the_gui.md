@@ -4,14 +4,19 @@ The **SemiBlock GUI Builder** provides an intuitive, visual workspace inside Vis
 
 ## Workspace Overview
 
-> ![](img/thumbnail.png/){width=inherit}
+> ![](img/thumbnail.png){width=inherit}
 
 When you open any `.sbform` file (such as `Form1.sbform`), the visual designer divides the screen into five primary areas:
 
+> ![](img/ui2.png){width=inherit}
+
 1. **Top Toolbar**
-2. **Left Sidebar (Components & Hierarchy)**
-3. **Centre Design Canvas**
-4. **Bottom Form Bar & Status Line**
+2. **Bottom Form Bar & Status Line**
+
+> ![](img/ui1.png){width=inherit}
+
+3. **Left Sidebar (Components & Hierarchy)**
+4. **Centre Design Canvas**
 5. **Right Inspector Panel (Properties, Events & Code)**
 
 
